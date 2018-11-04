@@ -132,3 +132,16 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 
 ***
 
+# GitBit
+### A a game that encourages new developers to create a habit of coding regularly and helping them become better developpers.
+* **Teammates**:
+  - Minh Trinh (@minhat)
+  - Tatum Alenkov (@Taterz)
+  - David Tran (@PoutineNinja)
+  - Catalin Popescu (@DancingCat)
+  - Maria Tolymbek (@Daffodil509)
+* **Seeking Teammates**: No
+* [GitHub URL](https://github.com/tatumalenko/fcc-jamstack-hackathon-2018)
+* Project Name: GitBit
+
+***
